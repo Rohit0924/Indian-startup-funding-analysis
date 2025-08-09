@@ -1,11 +1,5 @@
 # Indian-startup-funding-analysis
 
-Here’s a `README.md` for your `main.py` project:
-
----
-
-# Startup Funding Analysis
-
 ## 📌 Overview
 
 This project analyzes startup funding data from **`startup_funding.csv`** to identify trends, top sectors, cities, startups, investors, and investment types. It performs data cleaning, aggregation, and visualization.
